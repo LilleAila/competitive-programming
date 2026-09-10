@@ -28,6 +28,7 @@
             pyright
             ruff
             python3
+            pypy3
 
             (writeShellApplication {
               name = "kattis";
